@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ted-dunstone/experiments/static/css/main.ca50be96.css",
+    "main.js": "/ted-dunstone/experiments/static/js/main.b3ccb417.js",
+    "static/js/453.b99e5a0d.chunk.js": "/ted-dunstone/experiments/static/js/453.b99e5a0d.chunk.js",
+    "index.html": "/ted-dunstone/experiments/index.html",
+    "main.ca50be96.css.map": "/ted-dunstone/experiments/static/css/main.ca50be96.css.map",
+    "main.b3ccb417.js.map": "/ted-dunstone/experiments/static/js/main.b3ccb417.js.map",
+    "453.b99e5a0d.chunk.js.map": "/ted-dunstone/experiments/static/js/453.b99e5a0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca50be96.css",
+    "static/js/main.b3ccb417.js"
+  ]
+}
